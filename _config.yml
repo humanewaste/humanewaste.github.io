@@ -1,0 +1,23 @@
+# global settings
+title: "Humane Waste Reading /library"
+description: "Articles, abstracts and other content from the Humane Waste Project"
+permalink: "/stories/:title"
+url: https://humanewaste.github.io
+relative_permalinks: false
+
+# build settings
+markdown: kramdown
+plugins:
+  - jekyll-avatar
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-octicons
+
+sass:
+  style: :compressed
+  # Where you keep your scss files
+  sass_dir: assets/css/
+  # Where sass should look for other scss
+  load_paths:
+    - node_modules/
