@@ -7,7 +7,7 @@ We seem sabotaged in our pursuit of healthy living, captured by incoherent decis
 
 #### The Dismal and Uncomfortable Science
 
-The presentation "The Dismal and Uncomfortable Science of Effective Work and Self-sabotage from the Lense of a Business Anthropologist" brings together observations on organizational dynamics from a variety of far-more-experienced practitioners of productivity and survivors of corporate negligence. An essay intended to accompany the presentation follows.
+The presentation "[The Dismal and Uncomfortable Science of Effective Work and Self-sabotage from the Lense of a Business Anthropologist](https://docs.google.com/presentation/d/1LnZ9jIsMfZ6EzTAo_9jdWVQqEh1EcXDBVTryK5tDHn4)" brings together observations on organizational dynamics from a variety of far-more-experienced practitioners of productivity and survivors of corporate negligence. An essay intended to accompany the presentation follows.
 
 #### The Scarcity Handicap
 
