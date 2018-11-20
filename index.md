@@ -1,3 +1,11 @@
+## [Humane Waste: Making sense of American busy Work](http://humanewaste.strikingly.com)
+> "The greatest waste in America is failure to use the abilities of people" -W.E. Deming
+
+We seem sabotaged in our pursuit of healthy living, captured by incoherent decision-making. Join me in a conversation about evidence and experiments in the management of human performance.
+
+{:toc}
+
+
 ### Essays
 
 #### The Dismal and Uncomfortable Science
