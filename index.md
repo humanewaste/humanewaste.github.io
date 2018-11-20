@@ -14,7 +14,7 @@ Individuals in society are handicap by structures of thought that chip away at t
 
 #### Predictors
 ##### Observations used in decision-making
->Predictions of long term events are often based on systematic biases and cognitive illusions.
+> Long term predictions are influenced by systematic biases and cognitive illusions.
 
 Overwhelming evidence shows that professionals from law, medicine and economics employ substandard decision-making processes. Whether based on expert judgement or statistical indicators, without a transparent and determined attention to critical theory, these predictors fail to deliver on their promises
 
