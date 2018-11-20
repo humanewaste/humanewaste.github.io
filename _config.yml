@@ -1,5 +1,5 @@
 # global settings
-title: "Humane Waste Reading /library"
+title: "Humane Waste"
 description: "Articles, abstracts and other content from the Humane Waste Project"
 permalink: "/stories/:title"
 url: https://humanewaste.github.io
