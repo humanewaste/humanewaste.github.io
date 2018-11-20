@@ -20,8 +20,14 @@ Predictions of long term events are often based on systematic biases and cogniti
 
 Overwhelming evidence shows that professionals from law, medicine and economics employ substandard decision-making processes. Whether based on expert judgement or statistical indicators, without a transparent and determined attention to critical theory, these predictors fail to deliver on their promises
 
-### Correspondence
+### Learning
 
 #### Integrated Social Sciences
 
 Integrated social sciences (ISS) brings empirical studies of individuals and groups, gathered from the  interactions from a particular time and place, into a framework of description and analysis . Where limitations of research in physical sciences may be moved by technological improvements in instrumentation, the reproduction of physical interactions, such as in a game of billiards, is simply infeasible when working with the the unique state of individuals and groups, those complex adaptive systems known as “human beings”.
+
+#### Business and Adaption
+
+Harvard Business School released a Credential of Readiness (CORe) program covering accounting, economics and statistics (business analysis) to rather positive reviews from the business community. Additional courses are available for those who engage the curriculum and a proctored exam (I did quite poorly on accounting; you're welcome). These courses include deep dives on Innovation, Management and Finance.
+
+The Project Management Institute offers three proctored exams and chapters offer ensemble courses for the primary certificate, the Professional Project Manager. These require self-certification of hours of practice (in practice, years in the field) in various competencies from project coordination, business analysis and adaptive organization.
