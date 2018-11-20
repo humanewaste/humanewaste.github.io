@@ -3,9 +3,6 @@
 
 We seem sabotaged in our pursuit of healthy living, captured by incoherent decision-making. Join me in a conversation about evidence and experiments in the management of human performance.
 
-{:toc}
-
-
 ### Essays
 
 #### The Dismal and Uncomfortable Science
