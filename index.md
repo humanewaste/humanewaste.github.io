@@ -13,14 +13,38 @@ In this spanning collection of concepts and case studies the author argues that 
 Individuals in society are handicap by structures of thought that chip away at the inherent motivation people have to lead productive and healthy lives. Debt and scarcity have become twisted in dialogs, with the presumption that scarcity must exist for society to function, regardless of actual material availability; debt has become a burden instead of acting binding agent between communities. Resource managers misuse predictors and further corrupt social and capital systems, ignoring the complexity of systems thinking. We can use the following keywords to develop a dialog about the harmful narratives that have captured our culture, and direct our decision-makers back to a more progressive of a more prosperous and healthy society.
 
 #### Predictors
-
-Observations used in decision-making
-
-Predictions of long term events are often based on systematic biases and cognitive illusions.
+##### Observations used in decision-making
+>Predictions of long term events are often based on systematic biases and cognitive illusions.
 
 Overwhelming evidence shows that professionals from law, medicine and economics employ substandard decision-making processes. Whether based on expert judgement or statistical indicators, without a transparent and determined attention to critical theory, these predictors fail to deliver on their promises
 
-### Learning
+#### Scarcity
+##### Statements about the availability of resources
+> Perceived scarcity may lead to poor decisions about resource usage.
+
+American resource management is largely built on the concept of scarcity. As technology has vastly improved production, the world is more frequently experiencing scarcities created through the artificial means, instead of enjoying and engaging in a world of abundance.
+
+#### Handicap
+##### Techniques for reducing efficacy
+> Handicap occurs when there is little support or sympathy in the private or public sector.
+
+Where the word “handicap” has been used to describe people who have physical or cognitive disabilities, it has meant relief and assistance with resources pooled from the broader population. Those who do not fit into standard, by disability, poverty or economic strains, are handicap. Organizations self-sabotage through requiring standardized behaviors, optimizing for the majority of the population while losing the opportunity of diversity and innovation.
+
+#### Debt
+##### Commitments to future interaction
+> People may tend to destructive behavior when social ties are overburdened.
+
+Often considered as a bad condition, debt has a long history in human societies as an artifact of binding community members and encouraging further interactions or may break them apart when exploited.
+Thought
+
+#### Thought
+#### Processes of communication and assumption
+> People may tend to destructive behavior when social ties are overburdened.
+
+Often considered as a bad condition, debt has a long history in human societies as an artifact of binding community members and encouraging further interactions or may break them apart when exploited.
+
+
+### Learning Programs
 
 #### Integrated Social Sciences
 
